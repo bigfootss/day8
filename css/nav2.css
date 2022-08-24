@@ -1,0 +1,23 @@
+body{
+    background-color: #360336;
+}
+ul{
+    background-color: #380cd9fa;
+
+}
+li{
+    display: inline-block;
+    padding: 15px;
+    border-right: 3px solid #ade435;
+    text-align: center;
+}
+a{
+    padding: 15px;
+    color: aqua;
+    display: block;
+    text-decoration: none;
+}
+h1{
+    color: rgb(246, 9, 210);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
